@@ -18,6 +18,14 @@ ___
 
 ___
 
+### [Neetcode.io](https://neetcode.io/)
+
+#### Arrays and Hashing
+
+- [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/) ~*~ [Solution]()
+
+
+
 ### Top 50 Easy Coding Problems
 
 - [Two Sum](https://leetcode.com/problems/two-sum/) ~*~ [Solution]()
