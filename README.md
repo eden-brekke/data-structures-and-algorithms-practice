@@ -22,7 +22,8 @@ ___
 
 #### Arrays and Hashing
 
-- [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/) ~*~ [Solution]()
+- [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/) ~*~ [Solution](/neetcode/arrays-and-hashing/contains-duplicates/contains_duplicates.py)
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ~*~ [Solution](/neetcode/arrays-and-hashing/valid-anagram/valid_anagram.py)
 
 
 
